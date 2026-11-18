@@ -1,5 +1,5 @@
-Nama    : Arie Ardinata Kusuma
-NIM     : 251401046
+Nama : Arie Ardinata Kusuma
+NIM : 251401046
 Praktikum Pemrograman Web - Quiz
 
 # Aplikasi To-Do List – React.js
@@ -25,7 +25,7 @@ Aplikasi manajemen daftar tugas sehari-hari berbasis frontend yang dikembangkan 
 
 1. Clone repository ini:
    ```bash
-   git clone <URL_REPOSITORY_GITHUB_KAMU>
+   git clone https://github.com/arieeksm/todo-quiz-pemweb.git
    ```
 2. Masuk ke folder proyek:
    ```bash
